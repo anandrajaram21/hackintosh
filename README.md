@@ -30,4 +30,4 @@ Currently running on macOS Big Sur 11.1 (updated through App Store)
 
 ## Bugs:
 - Sometimes on different desktops, a black bar appears on the top right, although it goes away if you switch back and forth a couple times.
-- Shutting down the laptop by clicking the apple icon in the top left > Shut down... makes the OpenCore boot picker freeze on the subsequent boot, so the laptop has to be forced to power off by holding the power button, and then switching it on again. Although, switching off the laptop through Alfred does not make the boot picker freeze and as a side benefit, also starts up system startup apps faster on login.
+- Shutting down the laptop by clicking the apple icon in the top left > Shut down... makes the OpenCore boot picker freeze on the subsequent boot, so the laptop is completely unresponsive and has to be forced to power off by holding the power button, and then switching it on again. But switching off the laptop through Alfred does not make the boot picker freeze and as a side benefit, apps start up faster on login (the ones which are set to start on login, eg: alfred, drive file stream etc)
