@@ -1,6 +1,6 @@
 # Hackintosh
 A repository containing the files of my Hackintosh USB.   
-Currently running on macOS Big Sur 11.1 (updated through App Store)
+Currently running on macOS Big Sur 11.2 (updated through App Store)
 
 ## Laptop Specifications
 - **Laptop Model**: Dell Inspiron 5567  
@@ -9,7 +9,7 @@ Currently running on macOS Big Sur 11.1 (updated through App Store)
 - **dGPU**: AMD Radeon R7 M440/M445  
 - **Mouse**: I2C  
 - **Keyboard**: PS2
-- **Audio Codec**: ALC3246 Analog  
+- **Audio Codec**: ALC3246 Analog (ALC256) 
 - **WLAN Chipset**: Intel Corporation Wireless 3165  
 - **Ethernet Chipset**: Realtek RTL810xE PCI Express Fast Ethernet controller  
 - **SATA Controller**: Intel Corporation Sunrise Point-LP SATA Controller [AHCI mode]  
