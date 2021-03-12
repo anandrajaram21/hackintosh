@@ -31,3 +31,7 @@ Currently running on macOS Big Sur 11.2 (updated through App Store)
 ## Bugs:
 - Sometimes on different desktops, a black bar appears on the top right, although it goes away if you Ctrl-Up and Ctrl-Down a couple times.  
 ![The black bar](https://github.com/anandrajaram21/hackintosh/blob/bigsur/screenshots/black-bar.png)
+
+## Additional Information
+- I got the headphone output and input to work with https://github.com/hackintosh-stuff/ComboJack. It works flawlessly, and full credits go to the guys behind this. 
+- This EFI MUST NOT BE USED AS A DROP IN SUBSTITUTE FOR YOUR OWN LAPTOP, EVEN IF IT IS THE SAME MODEL. You MUST LEARN what makes your hack work. THIS EFI SHOULD ONLY BE USED AS A LAST RESORT. IF ANYTHING GOES WRONG WITH YOUR COMPUTER, I AM IN NO WAY RESPONSIBLE FOR THE DAMAGE CAUSED. 
